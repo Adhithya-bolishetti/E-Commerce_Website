@@ -9,7 +9,7 @@ export const Offers = () => {
     <h1>EXCLUSIVE</h1>
     <h1>Offers For You</h1>
     <p>ONLY ON BEST SELLERS RPODUCTS</p>
-    <button>Chekc Now</button>
+    <button>Check Now</button>
         </div>
         <div className="offers-right">
             <img src={exclusive_image} alt="" />
